@@ -1,0 +1,25 @@
+{
+  "name": "db.js",
+  "version": "0.9.0",
+  "homepage": "https://github.com/amowu/db.js",
+  "authors": [
+    "Aaron Powell <me@aaron-powell.com>",
+    "Amo Wu <amo260@gmail.com>"
+  ],
+  "description": "db.js is a wrapper for IndexedDB to make it easier to work against.",
+  "main": [
+    "src/db.js",
+    "db.min.js"
+  ],
+  "keywords": [
+    "db.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
